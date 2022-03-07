@@ -7,6 +7,7 @@ I am studing Software Development, and I am a JavaScript ninja🥷🏼
 ## Skills
 * HTML, CSS, JS
 * ReactJs
+* Tailwind CSS
 * Upcomming: NodeJS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

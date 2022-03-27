@@ -6,4 +6,4 @@ Hi, I am studing Software Development, and I am a JavaScript ninja🥷🏼
 * HTML, CSS, JS
 * ReactJs
 * Tailwind CSS
-* Learning... NodeJS
+* C# ASP.NET Core

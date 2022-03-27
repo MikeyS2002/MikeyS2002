@@ -4,6 +4,6 @@ Hi, I am studing Software Development, and I am a JavaScript ninja🥷🏼
 
 ## Skills
 * HTML, CSS, JS
-* ReactJs
+* React.js, Next.js
 * Tailwind CSS
 * C# ASP.NET Core

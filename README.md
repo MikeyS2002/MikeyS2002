@@ -5,3 +5,4 @@
 * React.js, Next.js
 * Tailwind CSS
 * C# ASP.NET Core
+* Java
